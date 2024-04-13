@@ -5,8 +5,8 @@ with more holes for example.
 
 #### Thigiverse
 
-<>
+<https://thingiverse.com/thing:6576786>
 
 #### GitHub
 
-<>
+<https://github.com/nomike/parametric-sewing-machine-thread-holder-attachment>
